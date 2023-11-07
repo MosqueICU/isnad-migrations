@@ -12,7 +12,7 @@ This repo has the migration data for https://github.com/MosqueICU/isnad
 
 - 2 Install packages with `npm install` 
 
--3 To webscape bukhari run `npm run bukhari`
+- 3 To webscape bukhari run `npm run bukhari`
 
 - 4 To migrate run the `npm run refresh` command
 
